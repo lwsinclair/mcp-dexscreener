@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/janswist-mcp-dexscreener-badge.png)](https://mseep.ai/app/janswist-mcp-dexscreener)
+
 # Dexscreener MCP server
 
 Basic MCP server for Dexscreener API based on their documentation (as of April 4th 2025): https://docs.dexscreener.com/api/reference
